@@ -37,8 +37,6 @@ Python ⋅ NumPy ⋅ Matplotlib ⋅ SciPy ⋅ Git ⋅ VS Code ⋅ Linux
 ---
 
 ### 📫 How to Reach Me
-Email: abdulrahmonadekunle7@gmail.com
-Location: University of Ibadan, Ibadan Nigeria.
 
 *   📧 abdulrahmonadekunle7@gmail.com
 *   📍 Ibadan, Nigeria
